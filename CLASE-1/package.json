@@ -1,0 +1,22 @@
+{
+  "name": "curso-node",
+  "version": "1.0.0",
+  "description": "El curso del midu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs"
+  ],
+  "author": "midudev",
+  "license": "ISC",
+  "dependencies": {
+    "picocolors": "1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^17.1.0"
+  }
+}
